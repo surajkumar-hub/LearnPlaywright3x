@@ -24,7 +24,7 @@ console.log(5 === "5"); // strict not allowed - value + datatype both
 // console.log(3 == "4");
 // ! -> not char (means reverse)
 console.log(5 != "5"); // loose comparison -> either compare datatype or value
-console.log(5 !== "5"); // true
+console.log(5 !== "5"); // strict comparison -> true
 // console.log(5 !=== "5"); This doesn't exist
 
 console.log(5 === 5);
