@@ -14,7 +14,7 @@ class Person {
 const pramod = new Person();
 // Object - new Person();
 // = Operator
-// pramod -> Object Refence
+// pramod -> Object Reference
 
 
 
